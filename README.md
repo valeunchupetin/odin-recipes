@@ -1,0 +1,1 @@
+practice html knowledge and skills acquired from the odin project. headliners, lists, links, images, etc. 
